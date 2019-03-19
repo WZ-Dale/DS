@@ -1,0 +1,6 @@
+﻿  SequenceList.c
+  Main.c
+c:\users\administrator\documents\visual studio 2013\projects\c\20190315\sequencelist\sequencelist\main.c(9): warning C4013: “SeqListInit”未定义；假设外部返回 int
+c:\users\administrator\documents\visual studio 2013\projects\c\20190315\sequencelist\sequencelist\main.c(34): warning C4013: “printf”未定义；假设外部返回 int
+  正在生成代码...
+  SequenceList.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2013\Projects\C\20190315\SequenceList\Debug\SequenceList.exe
