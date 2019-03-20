@@ -1,0 +1,13 @@
+﻿  Main.c
+c:\users\administrator\documents\visual studio 2013\projects\ds\linkedlist\linkedlist\main.c(26): warning C4013: “LListfanzhuan”未定义；假设外部返回 int
+  LinkedList.c
+c:\users\administrator\documents\visual studio 2013\projects\ds\linkedlist\linkedlist\linkedlist.c(35): warning C4013: “assert”未定义；假设外部返回 int
+c:\users\administrator\documents\visual studio 2013\projects\ds\linkedlist\linkedlist\linkedlist.c(63): warning C4047: “函数”:“LList *”与“LList **”的间接级别不同
+c:\users\administrator\documents\visual studio 2013\projects\ds\linkedlist\linkedlist\linkedlist.c(63): warning C4024: “LListPopFront”: 形参和实参 1 的类型不同
+c:\users\administrator\documents\visual studio 2013\projects\ds\linkedlist\linkedlist\linkedlist.c(67): warning C4047: “==”:“Node *”与“LLDataType”的间接级别不同
+c:\users\administrator\documents\visual studio 2013\projects\ds\linkedlist\linkedlist\linkedlist.c(84): warning C4047: “==”:“Node *”与“LLDataType”的间接级别不同
+c:\users\administrator\documents\visual studio 2013\projects\ds\linkedlist\linkedlist\linkedlist.c(94): warning C4047: “函数”:“LList *”与“LList **”的间接级别不同
+c:\users\administrator\documents\visual studio 2013\projects\ds\linkedlist\linkedlist\linkedlist.c(94): warning C4024: “LListPopFront”: 形参和实参 1 的类型不同
+  正在生成代码...
+LinkedList.obj : error LNK2019: 无法解析的外部符号 _assert，该符号在函数 _LListPopBack 中被引用
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DS\LinkedList\Debug\LinkedList.exe : fatal error LNK1120: 1 个无法解析的外部命令
