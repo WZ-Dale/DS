@@ -33,7 +33,9 @@ void Test2(){
 	//按值删除第一个
 	LListRemove(&llist, 3);//40,30,20,10,2,2,4
 	//按值删除所有
-	LListRemoveAll(&llist, 2);//40,30,20,10,4
+	//LListRemoveAll(&llist, 2);//40,30,20,10,4
+	//按值删除所有2
+	LListRemoveAll2(&llist, 2);//40,30,20,10,4
 	//链表翻转
 	LListReverse(&llist); //4,10,20,30,40
 	//打印

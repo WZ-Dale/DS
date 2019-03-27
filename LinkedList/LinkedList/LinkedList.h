@@ -34,6 +34,8 @@ LListEraseAfter(LList *llist, Node *pos);
 void LListRemove(LList *llist, LLDataType v);
 //按值删除所有
 void LListRemoveAll(LList *llist, LLDataType v);
+//按值删除所有2
+void LListRemoveAll2(LList *llist, LLDataType v);
 
 //3.改
 //按值改
