@@ -1,2 +1,5 @@
-﻿  LinkedList.c
-  LinkedList.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2013\Projects\LinkedList\Debug\LinkedList.exe
+﻿  Main.c
+f:\ds\linkedlist\linkedlist\main.c(30): warning C4013: “printf”未定义；假设外部返回 int
+  LinkedList.c
+  正在生成代码...
+  LinkedList.vcxproj -> F:\DS\LinkedList\Debug\LinkedList.exe
