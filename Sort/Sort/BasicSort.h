@@ -62,7 +62,7 @@ void PrintArray(int array[], int size) {
 	}
 	printf("\n");
 }
-
+// ≤‚ ‘
 void Test() {
 	int array[] = { 3, 9, 1, 4, 7, 5, 2, 8, 0, 6};
 	int size = sizeof(array) / sizeof(array[0]);
