@@ -531,7 +531,7 @@ struct RNode *LListAddRandomCopy(struct Node *head){
 			newNode->random = oldNode->random->next;
 		}
 
-		oldNode = oldNode->next;
+		oldNode = newNode->next;
 	}
 	//3.再把链表拆成两个
 	oldNode = head;
